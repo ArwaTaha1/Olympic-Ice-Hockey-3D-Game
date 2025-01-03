@@ -13,7 +13,7 @@ This project is a **3D simulation game** themed around **Ice Hockey**. The objec
   - **Defeat**: Time runs out before collecting the pucks.  
 
 ### **3D Models**
-- **Player**: Modeled with a head, body, and limbs using at 8 primitives.  
+- **Player**: Modeled with a head, body, and limbs using 8 primitives.  
 - **Environment**:  
   - **Boundary Walls**: 3 walls, with at least 2 primitives each.  
   - **Ground**: Created with at least 1 primitive.  
