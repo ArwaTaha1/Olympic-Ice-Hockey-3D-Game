@@ -1,7 +1,7 @@
 # Olympic Ice Hockey Game
 
 ## **Description**
-This project is a **3D simulation game** themed around **Ice Hockey**. The objective is to **collect scattred pucks within the ice rink** within the given time. The game environment includes **3D models** of the player, boundaries, ground, and other objects, with realistic rendering and animation.
+This project is a **3D simulation game** themed around **Ice Hockey**. The objective is to **collect scattered pucks within the ice rink** within the given time. The game environment includes **3D models** of the player, boundaries, ground, and other objects, with realistic rendering and animation.
 
 ## **Game Features**
 
